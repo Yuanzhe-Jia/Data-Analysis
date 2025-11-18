@@ -23,4 +23,3 @@ Businesses can make better decisions about how to allocate resources, improve pr
 - **Product Analysis.** Funnel/churn anslysis; AARRR; user journey analysis; functionality analysis; A/B test.
 - **Operation Analysis.** Content analysis; user persona analysis; user segmentation; user life-time value.
 - **Financial Analysis.** P&L forecast/break-even analysis; balance sheet/profit and loss statement/cash flow statement.
-
