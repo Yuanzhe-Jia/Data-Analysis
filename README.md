@@ -11,10 +11,10 @@ It is a broad field that encompasses a variety of techniques and tools, includin
 The goal is to turn raw data into actionable insights. 
 Businesses can make better decisions about how to allocate resources, improve products and services, and target their marketing efforts, based on data analysis insights.
 
-- Improve user experience: by understanding how users interact with apps, you can improve user engagement and retention.
-- Increase revenue: by understanding which features are driving purchases, you can optimize the monetization strategy.
-- Reduce costs: by identifying and fixing bugs, you can improve the overall efficiency of your apps.
-- Improve decision-making: by having access to data insights, you can make better deicsions for development and marketing.
+- By understanding how users interact with apps, you can improve user engagement and retention.
+- By understanding which features are driving purchases, you can optimize the monetization strategy.
+- By identifying and fixing bugs, you can improve the overall efficiency of your apps.
+- By having access to data insights, you can make better deicsions for development and marketing.
 
 ### Data Analysis Type
 
