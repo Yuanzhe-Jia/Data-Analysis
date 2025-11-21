@@ -34,7 +34,7 @@ You need to figure out what happened, why, and how to fix.
 “What changed?” - Detect unusual or unexpected patterns in metrics.
 
 **Method:**
-- Statistical thresholding (z-score, IQR)
+- Statistical thresholds (z-score, IQR)
 - Time-series models (ARIMA, Prophet, STL decomposition)
 - Control charts (Shewhart, EWMA)
 - ML-based detectors (Isolation Forest, One-Class SVM, LSTM Autoencoder)
