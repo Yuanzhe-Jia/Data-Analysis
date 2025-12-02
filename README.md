@@ -34,8 +34,8 @@ You need to figure out what happened, why, and how to fix.
 “What changed?” - Detect unusual or unexpected patterns in metrics.
 
 **Method:**
-- Statistical Thresholds (Z-score, IQR)
-- Time-series Models (ARIMA, Prophet, STL)
+- Statistical Thresholds (z-score, IQR)
+- Time-series Models (ARIMA, Prophet, STL decomposition)
 - Control Charts (Shewhart, EWMA)
 - ML-based Detectors (Isolation Forest, One-Class SVM, LSTM)
 
@@ -60,7 +60,7 @@ You need to figure out what happened, why, and how to fix.
 “How much did each factor contribute?” - Quantify how much each factor contributes to the issue.
 
 **Method:**
-- Heuristic Models (First/Last-touch, Time-decay)
+- Heuristic Models (first/last-touch, time-decay)
 - Regression Models (OLS, Logistic)
 - Shapley Value Attribution
 - Markov Chain Attribution
@@ -73,7 +73,7 @@ You need to figure out what happened, why, and how to fix.
 “What truly caused it?” - Prove which factors actually caused the issue.
 
 **Method:**
-- Randomized Controlled Trials (A/B Tests)
+- Randomized Controlled Trials (A/B tests)
 - Propensity Score Matching
 - Difference-in-Differences
 - Instrumental Variables
